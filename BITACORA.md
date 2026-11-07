@@ -1,0 +1,4 @@
+# Bitácora
+- 2026-11-06 · OpenAI Codex · Estabilidad, voz y observación de escritorio. El informe local reportó 223 pruebas seleccionadas. Quedó pendiente la comprobación física.
+- 2026-11-07 · OpenAI Codex · Coordinador recuperable, Docling para DOCX difíciles y piloto Browser Use aislado. El informe local registra 44 pruebas más una simulación del coordinador. La evaluación sintética de clasificación registró Gemma 5/6, Groq 5/6 y DeepSeek 6/6; Promptfoo se retiró tras conservar resultados. Sin ensayo académico real completo.
+- 2026-11-07 · OpenAI Codex Desktop · Preparó el flujo local y la memoria técnica inicial. GitHub confirmó repositorio privado inicialmente vacío con permiso de escritura para la conexión actual.
