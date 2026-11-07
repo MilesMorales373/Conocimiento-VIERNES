@@ -1,0 +1,5 @@
+# Protocolo compartido
+Al iniciar, identifica el agente (OpenAI Codex o DeepSeek). Lee este archivo, ESTADO_ACTUAL, CONTEXTO_PROYECTO y las últimas entradas de BITACORA. Consulta DECISIONES, ERRORES y PENDIENTES según la tarea. Contrasta con el código local y continúa desde el último punto confirmado.
+Durante el trabajo y al cerrar, registra cambios, decisiones, errores, pruebas y bloqueos relevantes. Actualiza ESTADO_ACTUAL al final con el próximo paso. Conserva la historia, diferencia propuestas y resultados, y registra el alcance de cada prueba.
+Antes de escribir, relee la versión remota y usa su SHA actual como precondición. Ante conflicto, relee, integra ambas aportaciones y vuelve a intentar. Verifica la publicación releyendo los archivos. Si GitHub falla, deja un borrador local temporal sin secretos y reconcilia cuando regrese el acceso.
+Solo se publican estos siete Markdown. Código, archivos funcionales, datos privados, credenciales, archivos académicos y registros crudos permanecen locales. La credencial de GitHub se configura por separado en cada cliente. Respeta AGENTS.md local, incluida la preparación de flujos antes de implementar.
