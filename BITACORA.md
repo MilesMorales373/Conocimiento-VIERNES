@@ -23,3 +23,5 @@
 - OpenAI Codex Desktop · Captura de ESPOL desde consola recupera la ventana de Brave con una actividad seleccionada y admite encargo por título desde la agenda local. Ambas rutas verificadas en Viernes en texto con la misma actividad y sin chat duplicado. Pasaron 74 pruebas. Informe: Indicaciones/INFORME_CAPTURA_DESDE_CONSOLA.md.
 
 - OpenAI Codex Desktop · Captura general de páginas web de Brave, con recopilación específica para ESPOL. Codex Desktop se localiza mediante AppX si falta en PATH y se verifica la existencia del chat antes de reutilizarlo. Confirmados chat eliminado y captura pública real; 83 pruebas automáticas. Pendiente enviar página general y verificar voz. Informe: Indicaciones/INFORME_CAPTURA_WEB_CODEX.md.
+
+- OpenAI Codex Desktop · Viernes abre el chat de captura después de cerrar el cliente del encargo. Reconoce las órdenes de reapertura y recupera la referencia al reiniciar. Pasaron 83 pruebas y la reapertura se verificó en Codex Desktop. Informe: Indicaciones/INFORME_APERTURA_CHAT_CODEX.md.
