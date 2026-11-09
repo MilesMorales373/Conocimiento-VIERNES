@@ -42,3 +42,6 @@ OpenAI Codex Desktop · Captura general de páginas web de Brave, con recopilaci
 
 ## Apertura del chat original
 OpenAI Codex Desktop · Viernes abre el chat de captura después de cerrar el cliente del encargo. Reconoce las órdenes de reapertura y recupera la referencia al reiniciar. Pasaron 83 pruebas y la reapertura se verificó en Codex Desktop. Informe: Indicaciones/INFORME_APERTURA_CHAT_CODEX.md.
+
+## Panel Umbral
+OpenAI Codex Desktop · Panel Umbral local con isla, conversación compartida por voz y texto, cámara, Gaming, control de plano e inicio con Windows opcional. Se verificaron dimensiones, repliegue y controles Enviar y Corregir con el motor real. Pasaron 132 pruebas automáticas. Pendiente comprobar micrófono, arranque y cámara con dos pestañas. Informe: Indicaciones/INFORME_PANEL_UMBRAL.md.
