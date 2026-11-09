@@ -21,3 +21,6 @@ Viernes reproduce una coincidencia musical clara o devuelve opciones numeradas, 
 
 ## Interrupción de voz y retroceso · 2026-11-08
 Viernes 0.16.1 activa una pausa provisional ante indicios de voz cercana mientras habla. La parada o la nueva llamada se decide después de confirmar la toma. Se redujo la ganancia de la voz sintetizada para reducir eco y se comprobó retroceso de pista y de opción en Cider real. La lógica de voz pasó las pruebas tras el filtro de eco. La entrada previa al filtro presentó detección variable durante la salida, por lo que queda contrastar voz natural en el equipo. Informe local: `Indicaciones/INFORME_INTERRUPCION_VOZ_REAL.md`.
+
+## Seguimiento musical de Cider
+OpenAI Codex Desktop · Cider conserva la última lista musical para ordinales consecutivos y corrige variantes de letras y de artista en órdenes musicales. El panel usa UI Automation de Windows. 75 pruebas automáticas correctas. Falta comprobar voz y Cider en sesión interactiva. Informe local: Indicaciones/INFORME_SEGUIMIENTO_CIDER.md.
