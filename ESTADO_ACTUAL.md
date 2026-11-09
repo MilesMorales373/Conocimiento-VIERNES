@@ -30,3 +30,6 @@ OpenAI Codex Desktop · Orden explícita para adjuntar la captura de una activid
 
 ## Prueba real de captura académica
 OpenAI Codex Desktop · Corregidas variantes del comando de captura ESPOL y añadido el enlace al chat confirmado. El conector guarda PNG temporal sin exponer imágenes en sus respuestas. La prueba real desde Viernes en texto confirmó el turno y dos imágenes en el paquete tras abrir la actividad por el conector. Pendiente adjuntar automáticamente pestañas manuales que el conector no expone. Informe local: Indicaciones/INFORME_CORRECCION_CAPTURA_ESPOL.md.
+
+## Captura de pestaña visible
+OpenAI Codex Desktop · Captura ESPOL verifica la URL en Brave al frente mediante accesibilidad de Windows y conserva el PNG de la vista original. Playwright recopila la misma actividad aunque vea otra pestaña. La prueba real en texto guardó la captura y reutilizó el chat existente sin duplicarlo. 73 pruebas automáticas. Falta prueba de micrófono y confirmar el cambio visual al chat. Informe local: Indicaciones/INFORME_PESTANA_VISIBLE_ESPOL.md.
