@@ -27,3 +27,6 @@ OpenAI Codex Desktop · Cider conserva la última lista musical para ordinales c
 
 ## Captura de ESPOL hacia Codex
 OpenAI Codex Desktop · Orden explícita para adjuntar la captura de una actividad visible de ESPOL y enviar su consigna y materiales verificados a un solo chat de Codex mediante el coordinador existente. 72 pruebas automáticas correctas; falta la comprobación en sesión real. Informe local: Indicaciones/INFORME_CAPTURA_ESPOL_CODEX.md.
+
+## Prueba real de captura académica
+OpenAI Codex Desktop · Corregidas variantes del comando de captura ESPOL y añadido el enlace al chat confirmado. El conector guarda PNG temporal sin exponer imágenes en sus respuestas. La prueba real desde Viernes en texto confirmó el turno y dos imágenes en el paquete tras abrir la actividad por el conector. Pendiente adjuntar automáticamente pestañas manuales que el conector no expone. Informe local: Indicaciones/INFORME_CORRECCION_CAPTURA_ESPOL.md.
