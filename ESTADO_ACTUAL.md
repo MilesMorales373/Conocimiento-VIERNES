@@ -15,3 +15,6 @@ Pendiente: medir habla natural con música y conversaciones de fondo y mejorar l
 
 ## Actualización de música y voz · 2026-11-08
 Cider es el reproductor de la ruta principal de música. Pruebas reales de consola confirmaron pista, progreso y conservación de foco con Cider al frente y con Brave al frente. También se verificaron arranque en frío, cola de playlist y panel de letras. Los lanzadores habituales reutilizan la autorización local protegida por Windows. El conector personal Playwright respondió desde Brave. Se verificaron Groq y DeepSeek y se ejecutaron regresiones de voz y música. El comportamiento con voz natural, ruido del cuarto y juego real a pantalla completa queda por medir. Informe local: `Indicaciones/INFORME_CIDER_CONSOLA_Y_VOZ.md`.
+
+## Selección por título y recepción de voz · 2026-11-08
+Viernes reproduce una coincidencia musical clara o devuelve opciones numeradas, conserva elecciones tras la interrupción por activación y reconoce títulos confirmados en la sesión. La captura permanece activa entre ciclos en reposo. Se verificaron desde consola selección, avance de cola y volumen de Cider. El micrófono configurado entregó muestras y los casos sintéticos validaron la ruta de voz. Siguiente comprobación: órdenes naturales con música de fondo. Informe local: `Indicaciones/INFORME_TITULOS_Y_RECEPCION_CIDER.md`.
