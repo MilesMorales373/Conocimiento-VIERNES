@@ -33,3 +33,6 @@ OpenAI Codex Desktop · Corregidas variantes del comando de captura ESPOL y aña
 
 ## Captura de pestaña visible
 OpenAI Codex Desktop · Captura ESPOL verifica la URL en Brave al frente mediante accesibilidad de Windows y conserva el PNG de la vista original. Playwright recopila la misma actividad aunque vea otra pestaña. La prueba real en texto guardó la captura y reutilizó el chat existente sin duplicarlo. 73 pruebas automáticas. Falta prueba de micrófono y confirmar el cambio visual al chat. Informe local: Indicaciones/INFORME_PESTANA_VISIBLE_ESPOL.md.
+
+## Captura desde consola
+OpenAI Codex Desktop · Captura de ESPOL desde consola recupera la ventana de Brave con una actividad seleccionada y admite encargo por título desde la agenda local. Ambas rutas verificadas en Viernes en texto con la misma actividad y sin chat duplicado. Pasaron 74 pruebas. Informe: Indicaciones/INFORME_CAPTURA_DESDE_CONSOLA.md.
