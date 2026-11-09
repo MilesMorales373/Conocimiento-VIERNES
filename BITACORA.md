@@ -13,3 +13,5 @@
 - 2026-11-08 · OpenAI Codex Desktop · Restauró la pausa provisional en la captura de voz y la entrega de la orden tras interrumpir. Verificó «anterior» por posición de cola y «opción anterior» por selección musical confirmada en Cider. Pasaron 74 regresiones y los siete casos con señal sintética después del filtro de eco. En la entrada previa al filtro hubo resultados variables, documentados en `Indicaciones/INFORME_INTERRUPCION_VOZ_REAL.md`.
 
 - OpenAI Codex Desktop · Cider conserva la última lista musical para ordinales consecutivos y corrige variantes de letras y de artista en órdenes musicales. El panel usa UI Automation de Windows. 75 pruebas automáticas correctas. Falta comprobar voz y Cider en sesión interactiva. Informe local: Indicaciones/INFORME_SEGUIMIENTO_CIDER.md.
+
+- OpenAI Codex Desktop · Orden explícita para adjuntar la captura de una actividad visible de ESPOL y enviar su consigna y materiales verificados a un solo chat de Codex mediante el coordinador existente. 72 pruebas automáticas correctas; falta la comprobación en sesión real. Informe local: Indicaciones/INFORME_CAPTURA_ESPOL_CODEX.md.
