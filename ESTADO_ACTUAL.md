@@ -18,3 +18,6 @@ Cider es el reproductor de la ruta principal de música. Pruebas reales de conso
 
 ## Selección por título y recepción de voz · 2026-11-08
 Viernes reproduce una coincidencia musical clara o devuelve opciones numeradas, conserva elecciones tras la interrupción por activación y reconoce títulos confirmados en la sesión. La captura permanece activa entre ciclos en reposo. Se verificaron desde consola selección, avance de cola y volumen de Cider. El micrófono configurado entregó muestras y los casos sintéticos validaron la ruta de voz. Siguiente comprobación: órdenes naturales con música de fondo. Informe local: `Indicaciones/INFORME_TITULOS_Y_RECEPCION_CIDER.md`.
+
+## Interrupción de voz y retroceso · 2026-11-08
+Viernes 0.16.1 activa una pausa provisional ante indicios de voz cercana mientras habla. La parada o la nueva llamada se decide después de confirmar la toma. Se redujo la ganancia de la voz sintetizada para reducir eco y se comprobó retroceso de pista y de opción en Cider real. La lógica de voz pasó las pruebas tras el filtro de eco. La entrada previa al filtro presentó detección variable durante la salida, por lo que queda contrastar voz natural en el equipo. Informe local: `Indicaciones/INFORME_INTERRUPCION_VOZ_REAL.md`.
