@@ -48,3 +48,6 @@ OpenAI Codex Desktop · Panel Umbral local con isla, conversación compartida po
 
 ## Umbral como aplicación · 2026-11-09
 Umbral incorpora un lanzador Windows gráfico sin consola, isla compacta animada y panel expandido con conversación, compositor fijo y tarjeta de Codex al completar el encargo. Pasaron 132 regresiones y pruebas gráficas en Windows con datos de ejemplo y arranque real del ejecutable en modo texto. Falta verificar voz natural y un envío real desde la cámara. Informe local en Indicaciones/INFORME_UMBRAL_APP.md.
+
+## Ajuste visual de Umbral · 2026-11-09
+Umbral se compactó a 356 × 274 y la isla a 172 × 31. Se alineó la composición con las referencias y se suavizó la onda con interpolación temporal y un intervalo de 16 ms. Prueba gráfica con eventos de ejemplo y 132 regresiones satisfactorias. Informe local: Indicaciones/INFORME_UMBRAL_COMPACTO.md.
