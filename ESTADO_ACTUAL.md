@@ -54,3 +54,6 @@ Umbral se compactó a 356 × 274 y la isla a 172 × 31. Se alineó la composici�
 
 ## Umbral y opciones musicales · 2026-11-09
 Umbral amplió legibilidad, edición y copia, añadió bandeja musical por lista vigente y fijado por voz. La captura de voz separa paradas y elecciones fusionadas. Pasaron 73 pruebas y verificaciones gráficas con datos de ejemplo. Quedan pruebas de voz natural y reproducción real. Informe: Indicaciones/INFORME_UMBRAL_OPCIONES.md.
+
+## Legibilidad y copia de Umbral · 2026-11-09
+Umbral calcula el ancho de la isla según su contenido, adopta la tipografía de Windows, incorpora iconos suavizados y menú oscuro, y permite copiar texto o enlaces mediante el portapapeles Unicode. Pasaron 145 pruebas y una verificación gráfica en Windows con datos de ejemplo. Informe: Indicaciones/INFORME_UMBRAL_COPIA.md.
