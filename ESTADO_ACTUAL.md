@@ -45,3 +45,6 @@ OpenAI Codex Desktop · Viernes abre el chat de captura después de cerrar el cl
 
 ## Panel Umbral
 OpenAI Codex Desktop · Panel Umbral local con isla, conversación compartida por voz y texto, cámara, Gaming, control de plano e inicio con Windows opcional. Se verificaron dimensiones, repliegue y controles Enviar y Corregir con el motor real. Pasaron 132 pruebas automáticas. Pendiente comprobar micrófono, arranque y cámara con dos pestañas. Informe: Indicaciones/INFORME_PANEL_UMBRAL.md.
+
+## Umbral como aplicación · 2026-11-09
+Umbral incorpora un lanzador Windows gráfico sin consola, isla compacta animada y panel expandido con conversación, compositor fijo y tarjeta de Codex al completar el encargo. Pasaron 132 regresiones y pruebas gráficas en Windows con datos de ejemplo y arranque real del ejecutable en modo texto. Falta verificar voz natural y un envío real desde la cámara. Informe local en Indicaciones/INFORME_UMBRAL_APP.md.
