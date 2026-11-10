@@ -57,3 +57,6 @@ Umbral amplió legibilidad, edición y copia, añadió bandeja musical por lista
 
 ## Legibilidad y copia de Umbral · 2026-11-09
 Umbral calcula el ancho de la isla según su contenido, adopta la tipografía de Windows, incorpora iconos suavizados y menú oscuro, y permite copiar texto o enlaces mediante el portapapeles Unicode. Pasaron 145 pruebas y una verificación gráfica en Windows con datos de ejemplo. Informe: Indicaciones/INFORME_UMBRAL_COPIA.md.
+
+## Tarjetas laterales y consulta del Barcelona · 2026-11-09
+Umbral muestra las opciones musicales a la derecha y reduce los iconos de cámara y envío. La consulta simple del próximo partido del FC Barcelona usa el calendario oficial y convierte a la zona local. Ante 403/429, el respaldo general usa otros motores. Se verificaron la consulta real, la geometría con datos de ejemplo y 52 regresiones. Informe: Indicaciones/INFORME_UMBRAL_LATERAL.md.
