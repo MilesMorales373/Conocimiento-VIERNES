@@ -63,3 +63,6 @@ Umbral muestra las opciones musicales a la derecha y reduce los iconos de cámar
 
 ## Diseño Pulso · 2026-11-09
 Pulso se aplicó a Umbral en Windows con paleta carbón y coral, onda centrada y tarjetas laterales con título y artista separados. Se verificaron la ventana real con datos de ejemplo y 75 pruebas. Informe: Indicaciones/INFORME_UMBRAL_PULSO.md.
+
+## Refinamiento de Pulso · 2026-11-09
+Pulso refina la cabecera en una sola fila, integra Escuchando al final del chat y separa la rueda del chat y las tarjetas. Se oscureció el borde y se solicitó redondeo nativo para el panel. Pasaron 75 pruebas y una verificación gráfica. Informe: Indicaciones/INFORME_PULSO_REFINADO.md.
