@@ -51,3 +51,6 @@ Umbral incorpora un lanzador Windows gráfico sin consola, isla compacta animada
 
 ## Ajuste visual de Umbral · 2026-11-09
 Umbral se compactó a 356 × 274 y la isla a 172 × 31. Se alineó la composición con las referencias y se suavizó la onda con interpolación temporal y un intervalo de 16 ms. Prueba gráfica con eventos de ejemplo y 132 regresiones satisfactorias. Informe local: Indicaciones/INFORME_UMBRAL_COMPACTO.md.
+
+## Umbral y opciones musicales · 2026-11-09
+Umbral amplió legibilidad, edición y copia, añadió bandeja musical por lista vigente y fijado por voz. La captura de voz separa paradas y elecciones fusionadas. Pasaron 73 pruebas y verificaciones gráficas con datos de ejemplo. Quedan pruebas de voz natural y reproducción real. Informe: Indicaciones/INFORME_UMBRAL_OPCIONES.md.
