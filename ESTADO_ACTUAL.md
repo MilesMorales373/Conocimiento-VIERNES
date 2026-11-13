@@ -72,3 +72,6 @@ OpenAI Codex Desktop incorporó espera por ventana y controles, expansión y des
 
 ## Mejoras integrales · 2026-11-13
 OpenAI Codex Desktop · Cancelación de entrega, continuidad de agenda, espera de ventana, gestión de recuerdos, búsqueda textual y encargo por actividad. Tarea diaria de Windows verificada a las 20:00. Pasaron 94 pruebas dirigidas. La batería completa sigue con fallos preexistentes. Pendientes: voz física, clase en vivo, encargo hasta Telegram, índice personal de PDF/DOCX y ampliación de conversación y herramientas. Informe: Indicaciones/INFORME_MEJORAS_INTEGRALES.md.
+
+## Continuidad · 2026-11-13
+OpenAI Codex Desktop incorporó contexto extractivo desde el historial persistente, caché local de PDF/DOCX, selección acotada de consultas y entrega opcional con /resolver N por Telegram. Pasaron 78 pruebas dirigidas. Pendientes: validación física y con cuentas reales, OCR documental y ampliación del selector. Informe: Indicaciones/INFORME_CONTINUIDAD_VIERNES.md.
