@@ -66,3 +66,6 @@ Pulso se aplicó a Umbral en Windows con paleta carbón y coral, onda centrada y
 
 ## Refinamiento de Pulso · 2026-11-09
 Pulso refina la cabecera en una sola fila, integra Escuchando al final del chat y separa la rueda del chat y las tarjetas. Se oscureció el borde y se solicitó redondeo nativo para el panel. Pasaron 75 pruebas y una verificación gráfica. Informe: Indicaciones/INFORME_PULSO_REFINADO.md.
+
+## Teams y carga de aplicaciones · 2026-11-12
+OpenAI Codex Desktop incorporó espera por ventana y controles, expansión y desplazamiento de canales, verificación de fecha y señal de clase activa y comprobación del micrófono y la cámara antes de Join now. La espera común se conectó también a los puntos de arranque de Zoom, Cider y Apple Music descritos en Indicaciones/INFORME_TEAMS_Y_CARGA_DE_APPS.md. Pasaron 92 pruebas. Se verificó OCR sobre capturas. Siguiente paso: validar el recorrido desde Teams cerrado y la unión en una clase real activa.
