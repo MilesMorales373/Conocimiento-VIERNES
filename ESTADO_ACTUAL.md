@@ -69,3 +69,6 @@ Pulso refina la cabecera en una sola fila, integra Escuchando al final del chat 
 
 ## Teams y carga de aplicaciones · 2026-11-12
 OpenAI Codex Desktop incorporó espera por ventana y controles, expansión y desplazamiento de canales, verificación de fecha y señal de clase activa y comprobación del micrófono y la cámara antes de Join now. La espera común se conectó también a los puntos de arranque de Zoom, Cider y Apple Music descritos en Indicaciones/INFORME_TEAMS_Y_CARGA_DE_APPS.md. Pasaron 92 pruebas. Se verificó OCR sobre capturas. Siguiente paso: validar el recorrido desde Teams cerrado y la unión en una clase real activa.
+
+## Mejoras integrales · 2026-11-13
+OpenAI Codex Desktop · Cancelación de entrega, continuidad de agenda, espera de ventana, gestión de recuerdos, búsqueda textual y encargo por actividad. Tarea diaria de Windows verificada a las 20:00. Pasaron 94 pruebas dirigidas. La batería completa sigue con fallos preexistentes. Pendientes: voz física, clase en vivo, encargo hasta Telegram, índice personal de PDF/DOCX y ampliación de conversación y herramientas. Informe: Indicaciones/INFORME_MEJORAS_INTEGRALES.md.
