@@ -87,3 +87,6 @@ OpenAI Codex Desktop añadió pausa temporal de Cider durante la interacción de
 
 ## Transporte y aplicaciones generales · 2026-11-14
 OpenAI Codex Desktop · Viernes 0.16.2 distingue la atenuación preliminar de la pausa confirmada, conserva respaldo por sesión y comprueba el avance de Cider también por posición de cola. La resolución de ventanas usa el catálogo y los identificadores de Windows para aplicaciones registradas. Prueba real de pausa, reanudación, salto y ciclo abrir/minimizar/mostrar/cerrar Paint. Pasaron 79 pruebas dirigidas. Pendiente: recorrido completo con voz humana y altavoces. Informe: Indicaciones/INFORME_TRANSPORTE_Y_APPS_GENERALES.md.
+
+## Prioridad de voz sobre Cider · 2026-11-14
+OpenAI Codex Desktop · Viernes 0.16.3 atenúa sesiones en las salidas activas de Windows, conserva la atenuación al solicitar pausa en Cider y comprueba la protección antes de iniciar Kokoro. Medición real de Cider al 4 % de su nivel anterior y restauración. El flujo real de voz confirmó pausa antes de Kokoro, 6,51 s escritos en los altavoces y reanudación de la misma pista. Pasaron 64 pruebas dirigidas. La activación hablada por una persona queda pendiente de comprobación. Informe: Indicaciones/INFORME_PRIORIDAD_VOZ_CIDER.md.
