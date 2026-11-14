@@ -75,3 +75,6 @@ OpenAI Codex Desktop · Cancelación de entrega, continuidad de agenda, espera d
 
 ## Continuidad · 2026-11-13
 OpenAI Codex Desktop incorporó contexto extractivo desde el historial persistente, caché local de PDF/DOCX, selección acotada de consultas y entrega opcional con /resolver N por Telegram. Pasaron 78 pruebas dirigidas. Pendientes: validación física y con cuentas reales, OCR documental y ampliación del selector. Informe: Indicaciones/INFORME_CONTINUIDAD_VIERNES.md.
+
+## Integración de escritorio
+OpenAI Codex Desktop · Entrega desde escritorio a Telegram con recuperación del chat y registro por archivo, reconexión acotada de Brave, contexto de acuerdos explícitos, OCR local y estados de ejecución. Pasaron 82 pruebas dirigidas y OCR real sintético. La batería repitió 26 fallos y 26 errores previos. Pruebas físicas y con cuentas reales pendientes. Guía: Indicaciones/GUIA_PRUEBAS_INTEGRACION_VIERNES.md.
