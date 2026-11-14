@@ -78,3 +78,6 @@ OpenAI Codex Desktop incorporó contexto extractivo desde el historial persisten
 
 ## Integración de escritorio
 OpenAI Codex Desktop · Entrega desde escritorio a Telegram con recuperación del chat y registro por archivo, reconexión acotada de Brave, contexto de acuerdos explícitos, OCR local y estados de ejecución. Pasaron 82 pruebas dirigidas y OCR real sintético. La batería repitió 26 fallos y 26 errores previos. Pruebas físicas y con cuentas reales pendientes. Guía: Indicaciones/GUIA_PRUEBAS_INTEGRACION_VIERNES.md.
+
+## Reparación de voz y Cider
+OpenAI Codex Desktop corrigió «Cambie canción», añadió respaldo multimedia de Windows y recuperación de escucha y conectó el cierre normal de ventanas. Micrófono capturó señal real. Cider agotó el plazo HTTP y no confirmó cambio con el respaldo, incluso tras reapertura normal. Pasaron 68 pruebas dirigidas. La batería general mantuvo los fallos anteriores. Informe: Indicaciones/INFORME_REPARACION_VOZ_CIDER_CIERRE.md.
