@@ -90,3 +90,6 @@ OpenAI Codex Desktop · Viernes 0.16.2 distingue la atenuación preliminar de la
 
 ## Prioridad de voz sobre Cider · 2026-11-14
 OpenAI Codex Desktop · Viernes 0.16.3 atenúa sesiones en las salidas activas de Windows, conserva la atenuación al solicitar pausa en Cider y comprueba la protección antes de iniciar Kokoro. Medición real de Cider al 4 % de su nivel anterior y restauración. El flujo real de voz confirmó pausa antes de Kokoro, 6,51 s escritos en los altavoces y reanudación de la misma pista. Pasaron 64 pruebas dirigidas. La activación hablada por una persona queda pendiente de comprobación. Informe: Indicaciones/INFORME_PRIORIDAD_VOZ_CIDER.md.
+
+## Actualización · 2026-11-14
+OpenAI Codex Desktop · 0.16.4 · La captura conserva la referencia del intento actual y confirma la recepción antes de vincular el chat. Las preguntas sociales llegan al modelo sin una consulta web. Apertura local de carpetas por nombre o ruta. 60 pruebas seleccionadas satisfactorias. Pendiente confirmar el flujo real desde Brave y voz. Informe local: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
