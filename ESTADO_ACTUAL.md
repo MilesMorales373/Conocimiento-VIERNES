@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-15 · Minirreproductor, cierre y redacción
+OpenAI Codex Desktop actualizó la orden de letras para abrir el MiniPlayer de Cider, preservó primer plano y aplicaciones protegidas en el cierre masivo, y añadió estilo académico con seguimiento de revisiones y comprobación de extensión en foros. Se probaron la apertura real del minirreproductor y la repetición de la orden desde Viernes, dos respuestas de foro con el modelo rápido y 111 pruebas seleccionadas. El cierre se verificó con ventanas simuladas; los iconos sin ventana identificable quedan fuera. Pendiente prueba por micrófono y otras escalas. Informe local: Indicaciones/INFORME_MINIPLAYER_CIERRE_Y_REDACCION.md.
+
 ## 2026-11-15 · Continuidad de voz
 OpenAI Codex Desktop añadió una conversación de voz opcional con «Viernes, conversemos», ventana de seguimiento de 15 s y pausa de 1,35 s por frase en esa modalidad. La escucha y el contexto reutilizan los motores actuales. Durante la voz sintetizada o con audio de fondo se conserva la activación habitual. Pasaron 115 pruebas seleccionadas, 10 nuevas, con transcripción y respuesta simuladas en el bucle. Pendiente comprobar habla real y comparar detectores locales de final de turno. Informe local: Indicaciones/INFORME_CONTINUIDAD_DE_VOZ.md.
 
