@@ -1,4 +1,7 @@
-# Estado al 2026-11-08
+# Estado al 2026-11-15
+
+## 2026-11-15 · Continuidad de voz
+OpenAI Codex Desktop añadió una conversación de voz opcional con «Viernes, conversemos», ventana de seguimiento de 15 s y pausa de 1,35 s por frase en esa modalidad. La escucha y el contexto reutilizan los motores actuales. Durante la voz sintetizada o con audio de fondo se conserva la activación habitual. Pasaron 115 pruebas seleccionadas, 10 nuevas, con transcripción y respuesta simuladas en el bucle. Pendiente comprobar habla real y comparar detectores locales de final de turno. Informe local: Indicaciones/INFORME_CONTINUIDAD_DE_VOZ.md.
 
 ## 2026-11-15 · Limpieza de almacenamiento
 OpenAI Codex Desktop retiró respaldos antiguos, los pilotos exclusivos de Apple Music y MusicKit, el entorno de Browser Use y archivos descartados de evaluación NPU. Se eliminaron duplicados del modelo semántico por SHA-256 y cachés regenerables. Tamaño lógico retirado: aproximadamente 2,14 GB. Pasaron 132 pruebas antes y después. Se verificaron la inferencia semántica CPU, Chromium local y la disponibilidad de Cider y Whisper Turbo. Informe local: Indicaciones/INFORME_LIMPIEZA_ALMACENAMIENTO.md.
