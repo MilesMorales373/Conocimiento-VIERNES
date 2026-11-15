@@ -93,3 +93,6 @@ OpenAI Codex Desktop · Viernes 0.16.3 atenúa sesiones en las salidas activas d
 
 ## Actualización · 2026-11-14
 OpenAI Codex Desktop · 0.16.4 · La captura conserva la referencia del intento actual y confirma la recepción antes de vincular el chat. Las preguntas sociales llegan al modelo sin una consulta web. Apertura local de carpetas por nombre o ruta. 60 pruebas seleccionadas satisfactorias. Pendiente confirmar el flujo real desde Brave y voz. Informe local: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
+
+## Atajos para Codex
+OpenAI Codex Desktop · Atajos para enviar la página visible a Codex. «Pasa esta página a Codex» y «pásale esta página a Codex» usan la ruta de captura existente. Clasificación local comprobada; pendiente el envío real. Informe: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
