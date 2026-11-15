@@ -54,3 +54,5 @@
 - 2026-11-14 · OpenAI Codex Desktop · 0.16.4 · La captura conserva la referencia del intento actual y confirma la recepción antes de vincular el chat. Las preguntas sociales llegan al modelo sin una consulta web. Apertura local de carpetas por nombre o ruta. 60 pruebas seleccionadas satisfactorias. Pendiente confirmar el flujo real desde Brave y voz. Informe local: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
 
 - 2026-11-14 · OpenAI Codex Desktop · Atajos para enviar la página visible a Codex. «Pasa esta página a Codex» y «pásale esta página a Codex» usan la ruta de captura existente. Clasificación local comprobada; pendiente el envío real. Informe: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
+
+- 2026-11-14 · OpenAI Codex Desktop · Captura y agenda de ESPOL usan un perfil de Brave sin ventana. La captura fija la URL y el chat queda disponible bajo petición. 57 pruebas dirigidas satisfactorias y foco de Windows conservado en una captura real con página de ejemplo. Pendiente autenticar el perfil de trabajo y validar ESPOL. Informe: Indicaciones/INFORME_BRAVE_SEGUNDO_PLANO.md.
