@@ -56,3 +56,5 @@
 - 2026-11-14 · OpenAI Codex Desktop · Atajos para enviar la página visible a Codex. «Pasa esta página a Codex» y «pásale esta página a Codex» usan la ruta de captura existente. Clasificación local comprobada; pendiente el envío real. Informe: Indicaciones/INFORME_CAPTURA_Y_CONVERSACION.md.
 
 - 2026-11-14 · OpenAI Codex Desktop · Captura y agenda de ESPOL usan un perfil de Brave sin ventana. La captura fija la URL y el chat queda disponible bajo petición. 57 pruebas dirigidas satisfactorias y foco de Windows conservado en una captura real con página de ejemplo. Pendiente autenticar el perfil de trabajo y validar ESPOL. Informe: Indicaciones/INFORME_BRAVE_SEGUNDO_PLANO.md.
+
+- 2026-11-14 · OpenAI Codex Desktop · Cider recibe la orden de pausa al detectar el nombre de activación. 61 pruebas dirigidas satisfactorias. RealtimeSTT abrió la entrada Bluetooth predeterminada; reconocimiento físico pendiente. Informe: Indicaciones/INFORME_PAUSA_AL_LLAMAR_Y_AIRPODS.md.
