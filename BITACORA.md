@@ -58,3 +58,5 @@
 - 2026-11-14 · OpenAI Codex Desktop · Captura y agenda de ESPOL usan un perfil de Brave sin ventana. La captura fija la URL y el chat queda disponible bajo petición. 57 pruebas dirigidas satisfactorias y foco de Windows conservado en una captura real con página de ejemplo. Pendiente autenticar el perfil de trabajo y validar ESPOL. Informe: Indicaciones/INFORME_BRAVE_SEGUNDO_PLANO.md.
 
 - 2026-11-14 · OpenAI Codex Desktop · Cider recibe la orden de pausa al detectar el nombre de activación. 61 pruebas dirigidas satisfactorias. RealtimeSTT abrió la entrada Bluetooth predeterminada; reconocimiento físico pendiente. Informe: Indicaciones/INFORME_PAUSA_AL_LLAMAR_Y_AIRPODS.md.
+
+- 2026-11-15 · OpenAI Codex Desktop · Corregidas las variantes de envío a Codex, la espera de la entrada autenticada de ESPOL y la descarga de adjuntos en segundo plano. El respaldo solo lee una pestaña existente de URL coincidente. El trabajador real confirmó tablero, consigna y materiales con foco conservado, sin enviar a Codex. «Para» y «cancele» interrumpieron TTS con voz sintética; pendiente voz natural. Informe: Indicaciones/INFORME_CAPTURA_ESPOL_Y_PARADA.md.
