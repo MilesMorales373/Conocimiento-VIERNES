@@ -1,17 +1,20 @@
 # Estado al 2026-11-08
 
+## 2026-11-15 · Limpieza de almacenamiento
+OpenAI Codex Desktop retiró respaldos antiguos, los pilotos exclusivos de Apple Music y MusicKit, el entorno de Browser Use y archivos descartados de evaluación NPU. Se eliminaron duplicados del modelo semántico por SHA-256 y cachés regenerables. Tamaño lógico retirado: aproximadamente 2,14 GB. Pasaron 132 pruebas antes y después. Se verificaron la inferencia semántica CPU, Chromium local y la disponibilidad de Cider y Whisper Turbo. Informe local: Indicaciones/INFORME_LIMPIEZA_ALMACENAMIENTO.md.
+
 ## 2026-11-15 · Captura de PowerPoint y recuperación de la extensión
 OpenAI Codex Desktop implementó lectura de PPTX y un reintento acotado de captura tras recuperar la extensión de Playwright. Se verificaron texto, imágenes y SHA-256 en un adjunto real previamente descargado. El perfil oculto necesita renovar su sesión. Falta comprobar el interruptor en Brave y el envío completo a Codex. Informe local: Indicaciones/INFORME_PPTX_Y_RECUPERACION_PLAYWRIGHT.md.
 
-Agente: OpenAI Codex Desktop. Tarea actual: piloto Apple Music Web CDP autenticado en segundo plano.
+El piloto Apple Music Web CDP se retiró de la instalación. A continuación se conserva únicamente la historia de sus pruebas.
 
 ## Apple Music Web CDP
-El perfil aislado llegó a Apple Music y encontró el resultado exacto Ghost Town (feat. PARTYNEXTDOOR) de Kanye West. La corrección anterior permitió enviar el clic DOM con focus=false y visibility=visible, pero la reproducción no avanzó durante 42 s (currentTime=0, playbackState=none). Se modificó el piloto para pasar el puntero por el arte y enviar un clic de ratón CDP al centro del botón Play observado. Se añadió telemetría segura para estado de carga y error del elemento multimedia, sin imprimir URLs firmadas. node --check pasó. El nuevo gesto no tiene aún validación física. Informe y prueba: Indicaciones/PRUEBA_APPLE_WEB_CDP.md; flujo: Indicaciones/FLUJO_APPLE_WEB_CDP.md.
+El perfil aislado llegó a Apple Music y encontró el resultado exacto Ghost Town (feat. PARTYNEXTDOOR) de Kanye West. La corrección anterior permitió enviar el clic DOM con focus=false y visibility=visible, pero la reproducción no avanzó durante 42 s (currentTime=0, playbackState=none). Se modificó el piloto para pasar el puntero por el arte y enviar un clic de ratón CDP al centro del botón Play observado. Se añadió telemetría segura para estado de carga y error del elemento multimedia, sin imprimir URLs firmadas. node --check pasó. El nuevo gesto no tiene aún validación física. Los archivos locales de este piloto se retiraron en la limpieza del 15 de noviembre.
 
 ## Trabajo previo
 El coordinador académico conserva un paquete con hashes y bloquea reenvíos inciertos. Se documentaron 44 pruebas y una simulación adicional, sin validar una tarea real completa. El piloto Apple Music confirmó Ghost Town en primer plano; fondo sigue en evaluación. Cider y MusicKit son pilotos separados.
 
-Siguiente paso: ejecutar una sola prueba autenticada del nuevo clic CDP. Se espera focus=false, título correcto, currentTime creciente hasta superar 30 s y sin que Brave recupere el foco. Si no inicia, distinguirlo con paused, readyState, networkState, srcHost y error de la salida. No integrar a Viernes hasta confirmar.
+Paso que quedó pendiente antes de retirar el piloto: probar un clic CDP autenticado. Se espera focus=false, título correcto, currentTime creciente hasta superar 30 s y sin que Brave recupere el foco. Si no inicia, distinguirlo con paused, readyState, networkState, srcHost y error de la salida. No integrar a Viernes hasta confirmar.
 
 ## Recuperación de voz, música y búsqueda pública
 OpenAI Codex Desktop verificó Python 3.11.9 y sus dependencias en la ejecución de Windows. Corrigió falsas continuaciones y cancelaciones, agregó atenuación mediante la API local cuando Windows no expone sesión activa del reproductor y confirmó pausa, letras, aleatorio, repetición y volumen. 122 pruebas automatizadas pasaron. La prueba conjunta con música y micrófono completó la frase sintética, redujo y restauró el volumen y conservó el estado inicial. La búsqueda pública funciona en el perfil separado de Brave mediante Playwright cuando el conector personal no responde. La extensión personal sigue agotando su plazo. Apple Music Web por CDP queda pausado, porque el hover recuperó el foco antes del clic.
