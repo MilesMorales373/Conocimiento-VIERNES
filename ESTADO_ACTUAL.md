@@ -1,4 +1,8 @@
 # Estado al 2026-11-08
+
+## 2026-11-15 · Captura de PowerPoint y recuperación de la extensión
+OpenAI Codex Desktop implementó lectura de PPTX y un reintento acotado de captura tras recuperar la extensión de Playwright. Se verificaron texto, imágenes y SHA-256 en un adjunto real previamente descargado. El perfil oculto necesita renovar su sesión. Falta comprobar el interruptor en Brave y el envío completo a Codex. Informe local: Indicaciones/INFORME_PPTX_Y_RECUPERACION_PLAYWRIGHT.md.
+
 Agente: OpenAI Codex Desktop. Tarea actual: piloto Apple Music Web CDP autenticado en segundo plano.
 
 ## Apple Music Web CDP
