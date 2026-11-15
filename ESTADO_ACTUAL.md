@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-15 · Búsqueda HTTP y variantes de lyrics
+OpenAI Codex Desktop añadió variantes de lyrics al MiniPlayer y priorizó consultas HTTP de Yahoo, luego DuckDuckGo y Mojeek, con Brave sin ventana como último respaldo. Consultas de clasificación y de concierto recuperaron fuentes sin iniciar Brave. Se comprobó también la respuesta completa de clasificación con el modelo rápido y pasaron 117 pruebas seleccionadas. Pendiente comprobación de pronunciaciones al micrófono. Informe local: Indicaciones/INFORME_BUSQUEDA_EN_SEGUNDO_PLANO_Y_LYRICS.md.
+
 ## 2026-11-15 · Minirreproductor, cierre y redacción
 OpenAI Codex Desktop actualizó la orden de letras para abrir el MiniPlayer de Cider, preservó primer plano y aplicaciones protegidas en el cierre masivo, y añadió estilo académico con seguimiento de revisiones y comprobación de extensión en foros. Se probaron la apertura real del minirreproductor y la repetición de la orden desde Viernes, dos respuestas de foro con el modelo rápido y 111 pruebas seleccionadas. El cierre se verificó con ventanas simuladas; los iconos sin ventana identificable quedan fuera. Pendiente prueba por micrófono y otras escalas. Informe local: Indicaciones/INFORME_MINIPLAYER_CIERRE_Y_REDACCION.md.
 
