@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-15 · Primera etapa de Viernes móvil
+OpenAI Codex Desktop conectó una búsqueda local por nombre en carpetas configuradas con selección y envío por Telegram al propietario vinculado. Se definió una ruta de web privada instalable en iPhone. Pasaron 31 pruebas Python y 12 del Worker en local. El próximo bloque es la búsqueda por contenido y proyecto. Queda pendiente verificar Telegram desde un iPhone con el receptor real y aplicar el cambio del Worker donde esté desplegado. Informe local: Indicaciones/INFORME_MEJORA_MOVIL_ARCHIVOS.md.
+
 ## 2026-11-15 · Búsqueda HTTP y variantes de lyrics
 OpenAI Codex Desktop añadió variantes de lyrics al MiniPlayer y priorizó consultas HTTP de Yahoo, luego DuckDuckGo y Mojeek, con Brave sin ventana como último respaldo. Consultas de clasificación y de concierto recuperaron fuentes sin iniciar Brave. Se comprobó también la respuesta completa de clasificación con el modelo rápido y pasaron 117 pruebas seleccionadas. Pendiente comprobación de pronunciaciones al micrófono. Informe local: Indicaciones/INFORME_BUSQUEDA_EN_SEGUNDO_PLANO_Y_LYRICS.md.
 
