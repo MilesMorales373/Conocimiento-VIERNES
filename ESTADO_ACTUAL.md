@@ -127,3 +127,7 @@ OpenAI Codex Desktop · Cider recibe la orden de pausa al detectar el nombre de 
 
 ## Captura de ESPOL y parada
 OpenAI Codex Desktop · Corregidas las variantes de envío a Codex, la espera de la entrada autenticada de ESPOL y la descarga de adjuntos en segundo plano. El respaldo solo lee una pestaña existente de URL coincidente. El trabajador real confirmó tablero, consigna y materiales con foco conservado, sin enviar a Codex. «Para» y «cancele» interrumpieron TTS con voz sintética; pendiente voz natural. Informe: Indicaciones/INFORME_CAPTURA_ESPOL_Y_PARADA.md.
+
+
+## 2026-11-16 · Recuperación web y revisión de parada
+OpenAI Codex Desktop corrigió la reserva de contexto para fuentes e incorporó Bing RSS y la API pública de Wikipedia, además de los respaldos previos. Filtra resultados irrelevantes y adapta la extensión de la respuesta a la petición. Gemma respondió consultas reales de Semana Santa, fotosíntesis y PWM; energía solar recuperó evidencia. Pasaron 114 pruebas. Para y cancela interrumpieron síntesis con STT/TTS reales y audio sintético (sin hardware). Próximo paso: voz del usuario con música/ruido y reproducción separada de la cancelación al entrar en clase. Informe: Indicaciones/INFORME_CORRECCION_WEB_Y_PARADA_20261116.md.
