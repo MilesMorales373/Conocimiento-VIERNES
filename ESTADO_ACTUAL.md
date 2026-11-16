@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-15 · Búsqueda documental recuperable
+Se añadió búsqueda local por contenido y proyecto con índice incremental y respaldo E5 para coincidencias estimadas. Telegram consulta, cancela y retoma la búsqueda con estado persistente. Pasaron 86 pruebas Python y 12 del Worker; el codificador real acertó en un ensayo controlado. Pendientes cliente web, configuración de carpetas y ensayo real del bot. Informe: Indicaciones/INFORME_INDICE_DOCUMENTAL_MOVIL.md.
+
 ## 2026-11-15 · Primera etapa de Viernes móvil
 OpenAI Codex Desktop conectó una búsqueda local por nombre en carpetas configuradas con selección y envío por Telegram al propietario vinculado. Se definió una ruta de web privada instalable en iPhone. Pasaron 31 pruebas Python y 12 del Worker en local. El próximo bloque es la búsqueda por contenido y proyecto. Queda pendiente verificar Telegram desde un iPhone con el receptor real y aplicar el cambio del Worker donde esté desplegado. Informe local: Indicaciones/INFORME_MEJORA_MOVIL_ARCHIVOS.md.
 
