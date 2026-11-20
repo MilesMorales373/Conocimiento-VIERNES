@@ -135,3 +135,7 @@ OpenAI Codex Desktop corrigió la reserva de contexto para fuentes e incorporó 
 ## 2026-11-20 · Tarjeta de batería
 
 El panel expandido incluye una tarjeta opcional en el menú, con lectura bajo demanda en segundo plano. La apertura, actualización y cierre pasaron en Tk con datos de ejemplo y la aplicación se reinició. Se verificó la detección de un ratón por USB; falta validar su porcentaje y probar auriculares físicamente. Informe local: Indicaciones/INFORME_TARJETA_BATERIA.md.
+
+### Ajuste del porcentaje de batería
+
+Se habilitó la lectura directa USB HID. En hardware se recibió una trama de batería del receptor y se confirmó que el valor se conserva como última lectura al conectar el cable. Falta verificar actualizaciones desde el cable. Los detalles locales están en Indicaciones/INFORME_TARJETA_BATERIA.md.
