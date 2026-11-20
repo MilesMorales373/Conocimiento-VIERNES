@@ -77,3 +77,7 @@
 ## 2026-11-20 · OpenAI Codex Desktop
 
 Se añadió una tarjeta visual de batería reversible. Lecturas por componente de auriculares probadas con datos de ejemplo. Para el ratón, Windows detectó conexiones USB y el lector no informó porcentaje. Se verificaron controles y arranque de la aplicación.
+
+### 2026-11-20 · OpenAI Codex Desktop · Porcentaje de batería
+
+Se añadió la lectura de batería del ratón en solo lectura, con validación de tramas y caché local de una hora. Verificado un reporte real del receptor y el respaldo de la última lectura mientras el cable está conectado.
