@@ -131,3 +131,7 @@ OpenAI Codex Desktop · Corregidas las variantes de envío a Codex, la espera de
 
 ## 2026-11-16 · Recuperación web y revisión de parada
 OpenAI Codex Desktop corrigió la reserva de contexto para fuentes e incorporó Bing RSS y la API pública de Wikipedia, además de los respaldos previos. Filtra resultados irrelevantes y adapta la extensión de la respuesta a la petición. Gemma respondió consultas reales de Semana Santa, fotosíntesis y PWM; energía solar recuperó evidencia. Pasaron 114 pruebas. Para y cancela interrumpieron síntesis con STT/TTS reales y audio sintético (sin hardware). Próximo paso: voz del usuario con música/ruido y reproducción separada de la cancelación al entrar en clase. Informe: Indicaciones/INFORME_CORRECCION_WEB_Y_PARADA_20261116.md.
+
+## 2026-11-20 · Tarjeta de batería
+
+El panel expandido incluye una tarjeta opcional en el menú, con lectura bajo demanda en segundo plano. La apertura, actualización y cierre pasaron en Tk con datos de ejemplo y la aplicación se reinició. Se verificó la detección de un ratón por USB; falta validar su porcentaje y probar auriculares físicamente. Informe local: Indicaciones/INFORME_TARJETA_BATERIA.md.
