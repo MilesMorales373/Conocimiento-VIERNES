@@ -73,3 +73,7 @@
 - 2026-11-15 · OpenAI Codex Desktop · Se añadió búsqueda local por contenido y proyecto con índice incremental y respaldo E5 para coincidencias estimadas. Telegram consulta, cancela y retoma la búsqueda con estado persistente. Pasaron 86 pruebas Python y 12 del Worker; el codificador real acertó en un ensayo controlado. Pendientes cliente web, configuración de carpetas y ensayo real del bot. Informe: Indicaciones/INFORME_INDICE_DOCUMENTAL_MOVIL.md.
 
 - 2026-11-16 · OpenAI Codex Desktop · Corrección de presupuesto de evidencia web, búsqueda Bing RSS y respaldo API pública de Wikipedia con filtro de pertinencia. Consultas reales con Gemma: Semana Santa, fotosíntesis y PWM; energía solar recuperó fuentes. 114 pruebas automáticas aprobadas. Whisper Turbo/Vosk/Kokoro interrumpieron con para y cancela en audio sintético; falta micrófono físico. Informe local: Indicaciones/INFORME_CORRECCION_WEB_Y_PARADA_20261116.md. No se garantiza disponibilidad de proveedores públicos.
+
+## 2026-11-20 · OpenAI Codex Desktop
+
+Se añadió una tarjeta visual de batería reversible. Lecturas por componente de auriculares probadas con datos de ejemplo. Para el ratón, Windows detectó conexiones USB y el lector no informó porcentaje. Se verificaron controles y arranque de la aplicación.
