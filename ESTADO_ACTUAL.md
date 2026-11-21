@@ -155,3 +155,7 @@ OpenAI Codex Desktop ajustó la captura cuando entrada y salida se emparejan en 
 ### Segunda comprobación de la entrada Bluetooth
 
 OpenAI Codex Desktop recibió confirmación de que la prueba con los auriculares Bluetooth no produjo respuesta en el chat. El diagnóstico en la app encontró actividad de entrada y ninguna activación confirmada, incluso al pausar el reproductor. La comparación de interfaces locales no confirmó una alternativa. Se restauró el ejecutable habitual, sin modificar código ni configuración. Pendiente comprobar que la misma voz llegue inteligible a otra aplicación con ese micrófono. Actualizado el informe local INFORME_RECONOCIMIENTO_AIRPODS_20261120.md.
+
+## 2026-11-21 · Perfil de audio Bluetooth
+
+OpenAI Codex Desktop corrigió la prioridad automática de captura: Viernes sigue la entrada multimedia principal de Windows, con el rol de comunicaciones solo si falta la principal. La selección por índice se conserva. Se confirmó que antes abría el micrófono Bluetooth aunque Windows seleccionaba el interno. Tras reiniciar, Viernes capturó por el micrófono integrado, Windows mantuvo los auriculares de salida y el micrófono Bluetooth quedó libre y disponible para elegirlo. Pasaron 92 pruebas dirigidas. La calidad audible y el reconocimiento por el micrófono de los auriculares requieren prueba física. Informe: Indicaciones/INFORME_PERFIL_BLUETOOTH_20261121.md.
