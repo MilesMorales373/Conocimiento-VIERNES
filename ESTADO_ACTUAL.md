@@ -151,3 +151,7 @@ Se rutearon encargos locales a chats fijos por materia y subcarpeta. Tres chats 
 ## 2026-11-20 - Reconocimiento de voz en auriculares Bluetooth
 
 OpenAI Codex Desktop ajustó la captura cuando entrada y salida se emparejan en los AirPods y recuperó el nombre omitido solo con confirmación acústica de la misma toma. La cancelación de eco continúa durante la voz de Viernes. Pasaron 91 pruebas automáticas y la prueba sintética aceptó llamadas completas y rechazó la frase sin nombre. La parada breve se vuelve a comprobar en español si la detección de idioma falla; la prueba sintética detuvo ambas respuestas de Gaming. Se verificaron micrófono activo y reinicio del ejecutable. Pendiente reconocimiento con la voz del usuario. Informe local: Indicaciones/INFORME_RECONOCIMIENTO_AIRPODS_20261120.md.
+
+### Segunda comprobación de la entrada Bluetooth
+
+OpenAI Codex Desktop recibió confirmación de que la prueba con los auriculares Bluetooth no produjo respuesta en el chat. El diagnóstico en la app encontró actividad de entrada y ninguna activación confirmada, incluso al pausar el reproductor. La comparación de interfaces locales no confirmó una alternativa. Se restauró el ejecutable habitual, sin modificar código ni configuración. Pendiente comprobar que la misma voz llegue inteligible a otra aplicación con ese micrófono. Actualizado el informe local INFORME_RECONOCIMIENTO_AIRPODS_20261120.md.
