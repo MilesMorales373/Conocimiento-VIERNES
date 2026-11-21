@@ -139,3 +139,7 @@ El panel expandido incluye una tarjeta opcional en el menú, con lectura bajo de
 ### Ajuste del porcentaje de batería
 
 Se habilitó la lectura directa USB HID. En hardware se recibió una trama de batería del receptor y se confirmó que el valor se conserva como última lectura al conectar el cable. Falta verificar actualizaciones desde el cable. Los detalles locales están en Indicaciones/INFORME_TARJETA_BATERIA.md.
+
+## 2026-11-20 · Objetivos de escritorio
+
+OpenAI Codex Desktop integró encargos locales reanudables, tarjetas de selección, acciones de accesibilidad en la pestaña activa, ajustes de continuidad de voz, recuperación de Codex por comprobante y preferencias versionadas por proyecto. La búsqueda añadió descubrimiento temporal, fuentes institucionales y síntesis de respaldo. Se corrigió la cesión de Cider y el salto por índice verificado. Pendientes: voz física y recuperación autenticada de extremo a extremo. Alcance y pruebas: Indicaciones/INFORME_OBJETIVOS_ESCRITORIO_20261120.md.
