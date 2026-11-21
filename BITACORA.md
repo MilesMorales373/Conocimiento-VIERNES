@@ -85,3 +85,7 @@ Se añadió la lectura de batería del ratón en solo lectura, con validación d
 ### 2026-11-20 · OpenAI Codex Desktop · Objetivos locales
 
 Se verificó en navegador real la selección de una respuesta pública mediante Gemma, sin cambiar pestaña, foco ni puntero. También se probaron tarjetas Tk, cambio de pista en Cider, búsqueda actual con fuentes y regresiones automatizadas. La ampliación móvil se reservó para otra etapa.
+
+### 2026-11-20 · OpenAI Codex Desktop · Rutas locales
+
+Se verificaron las carpetas académicas y los identificadores de chat sin publicar mensajes de prueba. Se combinó la búsqueda por nombres y metadatos de paquetes locales, se confirmó el micrófono interno disponible y se probó la barra oscura y el clic central en Tk.
