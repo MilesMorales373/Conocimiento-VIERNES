@@ -143,3 +143,7 @@ Se habilitó la lectura directa USB HID. En hardware se recibió una trama de ba
 ## 2026-11-20 · Objetivos de escritorio
 
 OpenAI Codex Desktop integró encargos locales reanudables, tarjetas de selección, acciones de accesibilidad en la pestaña activa, ajustes de continuidad de voz, recuperación de Codex por comprobante y preferencias versionadas por proyecto. La búsqueda añadió descubrimiento temporal, fuentes institucionales y síntesis de respaldo. Se corrigió la cesión de Cider y el salto por índice verificado. Pendientes: voz física y recuperación autenticada de extremo a extremo. Alcance y pruebas: Indicaciones/INFORME_OBJETIVOS_ESCRITORIO_20261120.md.
+
+## 2026-11-20 · Destinos y entrada de audio
+
+Se rutearon encargos locales a chats fijos por materia y subcarpeta. Tres chats admitieron reanudación y un cuarto mantuvo el bloqueo normal de escritura. Se corrigió la selección de micrófono según roles de Windows, la búsqueda por pistas locales y el desplazamiento de la interfaz. Pendiente la prueba física con el auricular disponible. Informe: Indicaciones/INFORME_MATERIAS_MICROFONO_BUSQUEDA_20261120.md.
