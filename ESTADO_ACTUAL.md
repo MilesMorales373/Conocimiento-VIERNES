@@ -147,3 +147,7 @@ OpenAI Codex Desktop integró encargos locales reanudables, tarjetas de selecci�
 ## 2026-11-20 · Destinos y entrada de audio
 
 Se rutearon encargos locales a chats fijos por materia y subcarpeta. Tres chats admitieron reanudación y un cuarto mantuvo el bloqueo normal de escritura. Se corrigió la selección de micrófono según roles de Windows, la búsqueda por pistas locales y el desplazamiento de la interfaz. Pendiente la prueba física con el auricular disponible. Informe: Indicaciones/INFORME_MATERIAS_MICROFONO_BUSQUEDA_20261120.md.
+
+## 2026-11-20 - Reconocimiento de voz en auriculares Bluetooth
+
+OpenAI Codex Desktop ajustó la captura cuando entrada y salida se emparejan en los AirPods y recuperó el nombre omitido solo con confirmación acústica de la misma toma. La cancelación de eco continúa durante la voz de Viernes. Pasaron 86 pruebas automáticas y la prueba sintética aceptó llamadas completas y rechazó la frase sin nombre. Se verificaron micrófono activo y reinicio del ejecutable. Pendiente reconocimiento con la voz del usuario. Informe local: Indicaciones/INFORME_RECONOCIMIENTO_AIRPODS_20261120.md.
