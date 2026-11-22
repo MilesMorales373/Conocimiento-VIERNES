@@ -163,3 +163,7 @@ OpenAI Codex Desktop corrigió la prioridad automática de captura: Viernes sigu
 ### 2026-11-21 · Recuperación de captura
 
 OpenAI Codex Desktop añadió comprobación de señal al abrir la entrada, descartando ceros y bloques repetidos al elegir una interfaz del mismo micrófono. Pasaron 93 pruebas y se verificó el arranque con captura integrada tras reiniciar el servicio de audio. El usuario indicó que el reconocimiento seguía fallando. La prueba directa no confirmó la orden; falta verificar voz inteligible con la Grabadora de Windows. Informe: Indicaciones/INFORME_RECUPERACION_CAPTURA_20261121.md.
+
+### 2026-11-21 · Procesamiento y activación de voz
+
+OpenAI Codex Desktop desactivó las mejoras de procesamiento del micrófono integrado para comprobar la captura. La señal se volvió continua durante la medición y se reconoció la pregunta de prueba sin el nombre. Se extendió la recuperación de «Viernes» por confirmación acústica de la misma toma a la entrada integrada. Pasaron 93 pruebas. Se reinició el ejecutable. Pendiente confirmar la respuesta a una orden completa con voz real. Informe: Indicaciones/INFORME_RECUPERACION_CAPTURA_20261121.md.
