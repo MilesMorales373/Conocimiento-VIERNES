@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-22 · Cuestionario en Brave
+OpenAI Codex Desktop implementó un modo de cuestionario para leer las preguntas detectadas en una pestaña de Brave y marcar radios y casillas con Gemma local. Verifica el documento antes de cada selección. En Brave real aislado, un cuestionario web servido localmente obtuvo 3/3 sin crear pestañas ni enviar el formulario. Un cambio de pregunta bloqueó la selección. Pasaron 54 regresiones. Pendiente repetir con el perfil habitual de Brave y por voz. Informe local: Indicaciones/INFORME_CUESTIONARIO_BRAVE.md.
+
 ## 2026-11-15 · Búsqueda documental recuperable
 Se añadió búsqueda local por contenido y proyecto con índice incremental y respaldo E5 para coincidencias estimadas. Telegram consulta, cancela y retoma la búsqueda con estado persistente. Pasaron 86 pruebas Python y 12 del Worker; el codificador real acertó en un ensayo controlado. Pendientes cliente web, configuración de carpetas y ensayo real del bot. Informe: Indicaciones/INFORME_INDICE_DOCUMENTAL_MOVIL.md.
 
