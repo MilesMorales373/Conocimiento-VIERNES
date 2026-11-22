@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-22 · Cuestionario directo sin extensión
+OpenAI Codex Desktop corrigió resuelve/resuelva y sustituyó Playwright para este comando por accesibilidad de Windows en la pestaña activa de Brave. En Brave real de práctica se verificaron 3/3 selecciones con respuestas de referencia y se conservó la identidad de la pestaña. Gemma no se cargó en esa sesión por RAM disponible insuficiente. Pasaron 57 pruebas. Pendiente confirmar el flujo completo con Gemma y la página habitual. Informe local: Indicaciones/INFORME_CUESTIONARIO_BRAVE_DIRECTO.md.
+
 ## 2026-11-22 · Cuestionario en Brave
 OpenAI Codex Desktop implementó un modo de cuestionario para leer las preguntas detectadas en una pestaña de Brave y marcar radios y casillas con Gemma local. Verifica el documento antes de cada selección. En Brave real aislado, un cuestionario web servido localmente obtuvo 3/3 sin crear pestañas ni enviar el formulario. Un cambio de pregunta bloqueó la selección. Pasaron 54 regresiones. Pendiente repetir con el perfil habitual de Brave y por voz. Informe local: Indicaciones/INFORME_CUESTIONARIO_BRAVE.md.
 
