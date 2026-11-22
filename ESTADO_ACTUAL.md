@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-22 · Cierre del cuestionario visual
+OpenAI Codex Desktop agregó «terminamos el cuestionario» como cierre explícito del seguimiento visual. Borra el punto guardado para empezar de nuevo desde lo visible sin capturar la pantalla. Se conserva el alias anterior. Informe local: Indicaciones/INFORME_CIERRE_CUESTIONARIO_VISUAL.md.
+
 ## 2026-11-22 · Continuidad visual de cuestionarios
 OpenAI Codex Desktop añadió continuidad visual numerada a la lectura de cuestionarios. Las órdenes de continuación solicitan una captura nueva del mismo monitor y exigen el próximo número, sin avanzar si falta. Gemma leyó la captura de la pregunta 12 y la secuencia 9–12 pasó con capturas simuladas. Pasaron 35 pruebas dirigidas. Pendiente desplazamiento y voz en la sesión habitual. Informe: Indicaciones/INFORME_CONTINUIDAD_CUESTIONARIO_VISUAL.md.
 
