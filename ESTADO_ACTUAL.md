@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-22 · Continuidad visual de cuestionarios
+OpenAI Codex Desktop añadió continuidad visual numerada a la lectura de cuestionarios. Las órdenes de continuación solicitan una captura nueva del mismo monitor y exigen el próximo número, sin avanzar si falta. Gemma leyó la captura de la pregunta 12 y la secuencia 9–12 pasó con capturas simuladas. Pasaron 35 pruebas dirigidas. Pendiente desplazamiento y voz en la sesión habitual. Informe: Indicaciones/INFORME_CONTINUIDAD_CUESTIONARIO_VISUAL.md.
+
 ## 2026-11-22 · Lectura de preguntas sin grupo visible
 OpenAI Codex Desktop amplió la lectura directa de cuestionarios en Brave a grupos accesibles sin nombre, encabezados y enunciados interrogativos próximos a opciones. En Brave real aislado se verificaron 3 selecciones en el mismo documento con respuestas de referencia. Falta inspeccionar el cuestionario específico. Informe local: Indicaciones/INFORME_LECTURA_CUESTIONARIOS_BRAVE.md.
 
