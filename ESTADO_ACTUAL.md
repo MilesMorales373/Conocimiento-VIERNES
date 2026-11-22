@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-22 · Lectura de preguntas sin grupo visible
+OpenAI Codex Desktop amplió la lectura directa de cuestionarios en Brave a grupos accesibles sin nombre, encabezados y enunciados interrogativos próximos a opciones. En Brave real aislado se verificaron 3 selecciones en el mismo documento con respuestas de referencia. Falta inspeccionar el cuestionario específico. Informe local: Indicaciones/INFORME_LECTURA_CUESTIONARIOS_BRAVE.md.
+
 ## 2026-11-22 · Cuestionario directo sin extensión
 OpenAI Codex Desktop corrigió resuelve/resuelva y sustituyó Playwright para este comando por accesibilidad de Windows en la pestaña activa de Brave. En Brave real de práctica se verificaron 3/3 selecciones con respuestas de referencia y se conservó la identidad de la pestaña. Gemma no se cargó en esa sesión por RAM disponible insuficiente. Pasaron 57 pruebas. Pendiente confirmar el flujo completo con Gemma y la página habitual. Informe local: Indicaciones/INFORME_CUESTIONARIO_BRAVE_DIRECTO.md.
 
