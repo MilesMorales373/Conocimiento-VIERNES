@@ -104,3 +104,7 @@ OpenAI Codex Desktop desactivó las mejoras de procesamiento del micrófono inte
 ### 2026-11-21 · Reversión de captura y confirmación real
 
 OpenAI Codex Desktop revirtió las modificaciones recientes de voz y restauró la apertura de micrófono anterior mediante RealtimeSTT. Se comprobó la configuración original de procesamiento del micrófono, la sesión de captura integrada y la transcripción después de reiniciar. Pasaron 90 pruebas. El usuario confirmó que Viernes volvió a responder a su llamada. Informe: Indicaciones/INFORME_RECUPERACION_CAPTURA_20261121.md.
+
+### Adelantos y recomendaciones de Cider
+
+OpenAI Codex Desktop implementó una sugerencia proactiva de agenda que requiere confirmación explícita para preparar un borrador en el chat académico asignado. Añadió elección de una pista vía Cider según biblioteca, género, contexto y preferencias locales. La reproducción directa requiere delegación o una orden de poner música. Pasaron 151 pruebas y la integración de solo lectura con Cider y una copia de la agenda. Pendientes el borrador con una actividad real aceptada y la aceptación por voz. Informe: Indicaciones/INFORME_ADELANTOS_Y_RECOMENDACIONES.md.
