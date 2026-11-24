@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Preguntas abiertas y verificación
+OpenAI Codex Desktop separó lectura de pantalla y respuesta razonada. Se admiten preguntas abiertas, pedidos por números y respaldo web para lo no resuelto en modo compartido. Finlandia respondió Helsinki en la captura real; la respuesta local sobre Rembrandt sigue sin garantía. Informe local: Indicaciones/INFORME_PREGUNTAS_ABIERTAS_Y_NUMEROS.md.
+
 ## 2026-11-24 · Preguntas sin número y captura sin panel
 OpenAI Codex Desktop admitió diapositivas sin número en la lectura visual y excluyó temporalmente el panel propio de la captura. Gemma respondió la captura de prueba, el panel real desapareció solo durante la captura y pasaron 35 regresiones. Pendiente repetir por voz. Informe: Indicaciones/INFORME_PREGUNTAS_VISUALES_SIN_NUMERO.md.
 
