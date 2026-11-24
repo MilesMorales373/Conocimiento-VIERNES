@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Preguntas sin número y captura sin panel
+OpenAI Codex Desktop admitió diapositivas sin número en la lectura visual y excluyó temporalmente el panel propio de la captura. Gemma respondió la captura de prueba, el panel real desapareció solo durante la captura y pasaron 35 regresiones. Pendiente repetir por voz. Informe: Indicaciones/INFORME_PREGUNTAS_VISUALES_SIN_NUMERO.md.
+
 ## 2026-11-24 · Pantallas y código rojo
 OpenAI Codex Desktop agregó selección de monitor por menú y voz para la isla y el panel. También agregó «código rojo» para cerrar Viernes y los procesos de ChatGPT, Codex y Ollama de la cuenta. La prueba detectó dos monitores, verificó la geometría en el segundo, cerró el panel y ocho procesos de prueba y preservó un proceso ajeno. Pendientes cierre de instancias personales y prueba oral. Informe local: Indicaciones/INFORME_PANTALLAS_Y_CODIGO_ROJO.md.
 
