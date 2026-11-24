@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Selector de chat para Brave
+OpenAI Codex Desktop incorporó un selector de cinco chats existentes al envío de pestañas de Brave. Conserva el paquete capturado, acepta selección por voz, texto o tarjetas y preserva el destino fijo al reanudar. Pasaron 54 regresiones. Pendiente primer envío real autorizado. Informe local: Indicaciones/INFORME_SELECTOR_CHAT_BRAVE.md.
+
 ## 2026-11-24 · Continuidad y verificación
 OpenAI Codex Desktop agregó listas, rangos, patrones y memoria por sesión al cuestionario visual. Se verifica contra fuentes por defecto, se omite la inferencia local de texto redundante y se guardan tiempos de captura, Gemma y web. Medición de dos preguntas y simulación de continuidad documentadas en Indicaciones/INFORME_CUESTIONARIO_VERIFICADO.md.
 
