@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Continuidad y verificación
+OpenAI Codex Desktop agregó listas, rangos, patrones y memoria por sesión al cuestionario visual. Se verifica contra fuentes por defecto, se omite la inferencia local de texto redundante y se guardan tiempos de captura, Gemma y web. Medición de dos preguntas y simulación de continuidad documentadas en Indicaciones/INFORME_CUESTIONARIO_VERIFICADO.md.
+
 ## 2026-11-24 · Preguntas abiertas y verificación
 OpenAI Codex Desktop separó lectura de pantalla y respuesta razonada. Se admiten preguntas abiertas, pedidos por números y respaldo web para lo no resuelto en modo compartido. Finlandia respondió Helsinki en la captura real; la respuesta local sobre Rembrandt sigue sin garantía. Informe local: Indicaciones/INFORME_PREGUNTAS_ABIERTAS_Y_NUMEROS.md.
 
