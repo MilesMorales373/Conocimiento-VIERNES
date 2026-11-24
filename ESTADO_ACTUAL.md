@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Cámara, chat nuevo y fuentes
+OpenAI Codex Desktop unificó el comando de captura de voz y cámara, añadió Chat nuevo solo en texto y permitió consultar la procedencia registrada de las últimas respuestas visuales. Se reinició Viernes. Pasaron 54 regresiones. La prueba web real dejó las preguntas 11 y 12 pendientes al no hallar respaldo utilizable. Informe local: Indicaciones/INFORME_CAMARA_CHAT_NUEVO_Y_FUENTES.md.
+
 ## 2026-11-24 · Selector de chat para Brave
 OpenAI Codex Desktop incorporó un selector de cinco chats existentes al envío de pestañas de Brave. Conserva el paquete capturado, acepta selección por voz, texto o tarjetas y preserva el destino fijo al reanudar. Pasaron 54 regresiones. Pendiente primer envío real autorizado. Informe local: Indicaciones/INFORME_SELECTOR_CHAT_BRAVE.md.
 
