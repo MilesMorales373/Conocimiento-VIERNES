@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Respaldo local del cuestionario
+OpenAI Codex Desktop añadió respaldo de Gemma local cuando el cuestionario visual no consigue una fuente útil. El panel distingue las respuestas sin verificar y conserva las fuentes por pregunta. Prueba de bloque mixto documentada en Indicaciones/INFORME_RESPALDO_LOCAL_CUESTIONARIO.md.
+
 ## 2026-11-24 · Búsqueda enfocada del cuestionario
 OpenAI Codex Desktop incorporó búsquedas por tema y nombres propios al cuestionario visual. La prueba real de la imagen de Othello respondió Iago con fuente Folger, en 31,36 s. Pasaron 16 pruebas. Informe local: Indicaciones/INFORME_BUSQUEDA_ENFOCADA_CUESTIONARIO.md.
 
