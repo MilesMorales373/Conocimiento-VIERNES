@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Búsqueda enfocada del cuestionario
+OpenAI Codex Desktop incorporó búsquedas por tema y nombres propios al cuestionario visual. La prueba real de la imagen de Othello respondió Iago con fuente Folger, en 31,36 s. Pasaron 16 pruebas. Informe local: Indicaciones/INFORME_BUSQUEDA_ENFOCADA_CUESTIONARIO.md.
+
 ## 2026-11-24 · Respuesta visual breve
 OpenAI Codex Desktop dejó las respuestas visuales en formato enunciado y dato directo. Se conserva la fuente para consulta explícita. Informe local: Indicaciones/INFORME_RESPUESTA_VISUAL_BREVE.md.
 
