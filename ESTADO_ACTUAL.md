@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Pantallas y código rojo
+OpenAI Codex Desktop agregó selección de monitor por menú y voz para la isla y el panel. También agregó «código rojo» para cerrar Viernes y los procesos de ChatGPT, Codex y Ollama de la cuenta. La prueba detectó dos monitores, verificó la geometría en el segundo, cerró el panel y ocho procesos de prueba y preservó un proceso ajeno. Pendientes cierre de instancias personales y prueba oral. Informe local: Indicaciones/INFORME_PANTALLAS_Y_CODIGO_ROJO.md.
+
 ## 2026-11-22 · Cierre del cuestionario visual
 OpenAI Codex Desktop agregó «terminamos el cuestionario» como cierre explícito del seguimiento visual. Borra el punto guardado para empezar de nuevo desde lo visible sin capturar la pantalla. Se conserva el alias anterior. Informe local: Indicaciones/INFORME_CIERRE_CUESTIONARIO_VISUAL.md.
 
