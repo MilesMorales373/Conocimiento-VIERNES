@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Respuesta visual breve
+OpenAI Codex Desktop dejó las respuestas visuales en formato enunciado y dato directo. Se conserva la fuente para consulta explícita. Informe local: Indicaciones/INFORME_RESPUESTA_VISUAL_BREVE.md.
+
 ## 2026-11-24 · Cámara, chat nuevo y fuentes
 OpenAI Codex Desktop unificó el comando de captura de voz y cámara, añadió Chat nuevo solo en texto y permitió consultar la procedencia registrada de las últimas respuestas visuales. Se reinició Viernes. Pasaron 54 regresiones. La prueba web real dejó las preguntas 11 y 12 pendientes al no hallar respaldo utilizable. Informe local: Indicaciones/INFORME_CAMARA_CHAT_NUEVO_Y_FUENTES.md.
 
