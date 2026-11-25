@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-25 · Captura directa del Aula Virtual en Brave
+OpenAI Codex Desktop incorporó al comando de captura un enlace nativo de Brave restringido a ESPOL. Se verificaron en la sesión real la consigna, la imagen y un adjunto PDF original, sin depender del perfil de trabajo. Pasaron 61 regresiones. Codex Desktop retuvo la escritura del chat asignado y Viernes conservó el material con envío pendiente. Falta confirmar una recepción automática en el chat y probar micrófono y botón físico. Informe local: Indicaciones/INFORME_BRAVE_DIRECTO_CODEX.md.
+
 ## 2026-11-24 · Aprendizaje de correcciones visuales
 OpenAI Codex Desktop incorporó memoria local de correcciones explícitas por huella y lectura de opciones OCR por alineación. Se extrajeron 4 preguntas con 4 opciones cada una de una captura real; pasaron 26 regresiones y comprobaciones de persistencia, privacidad y opciones distintas. Informe: Indicaciones/INFORME_ENTRENAMIENTO_PREGUNTAS.md.
 
