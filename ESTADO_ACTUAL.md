@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-25 · Biblioteca académica local
+OpenAI Codex Desktop preparó una biblioteca académica local para tres materias. Incorporó indexación incremental de PDF y diapositivas, búsqueda bilingüe por términos y citas comprobadas contra fragmentos locales antes de recurrir a la web. Verificó la recuperación en material real y cuatro pruebas automatizadas. Pendiente medición con voz y modelo durante una sesión real. Informe local: Indicaciones/INFORME_BIBLIOTECA_MATERIAS.md.
+
 ## 2026-11-25 · Captura directa del Aula Virtual en Brave
 OpenAI Codex Desktop incorporó al comando de captura un enlace nativo de Brave restringido a ESPOL. Se verificaron en la sesión real la consigna, la imagen y un adjunto PDF original, sin depender del perfil de trabajo. Pasaron 61 regresiones. Codex Desktop retuvo la escritura del chat asignado y Viernes conservó el material con envío pendiente. Falta confirmar una recepción automática en el chat y probar micrófono y botón físico. Informe local: Indicaciones/INFORME_BRAVE_DIRECTO_CODEX.md.
 
