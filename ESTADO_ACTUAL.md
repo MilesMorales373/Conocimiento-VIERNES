@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Aprendizaje de correcciones visuales
+OpenAI Codex Desktop incorporó memoria local de correcciones explícitas por huella y lectura de opciones OCR por alineación. Se extrajeron 4 preguntas con 4 opciones cada una de una captura real; pasaron 26 regresiones y comprobaciones de persistencia, privacidad y opciones distintas. Informe: Indicaciones/INFORME_ENTRENAMIENTO_PREGUNTAS.md.
+
 ## 2026-11-24 · Letras en modo juego
 OpenAI Codex Desktop permitió mostrar letras en el MiniPlayer de Cider durante modo juego y agregó la variante de voz «likes de la canción». Prueba del enrutamiento satisfactoria con controlador simulado. Informe: Indicaciones/INFORME_LETRAS_CIDER_MODO_JUEGO.md.
 
