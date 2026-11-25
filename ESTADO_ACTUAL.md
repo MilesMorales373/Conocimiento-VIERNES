@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-24 · Letras en modo juego
+OpenAI Codex Desktop permitió mostrar letras en el MiniPlayer de Cider durante modo juego y agregó la variante de voz «likes de la canción». Prueba del enrutamiento satisfactoria con controlador simulado. Informe: Indicaciones/INFORME_LETRAS_CIDER_MODO_JUEGO.md.
+
 ## 2026-11-24 · Lectura y verificación paralela
 OpenAI Codex Desktop separó lectura actual y continuación, añadió accesibilidad/OCR antes de Gemma, validación de múltiples opciones y búsquedas concurrentes con caché por pestaña. Pasaron 32 regresiones y simulación de continuidad y orden. Pendiente prueba en Aula Virtual y por micrófono. Informe: Indicaciones/INFORME_LECTURA_Y_VERIFICACION_PARALELA.md.
 
