@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-25 · Latencia de cuestionarios
+OpenAI Codex Desktop agrupó la verificación de material académico en una llamada a Gemma, solapó búsquedas web con evidencia local débil, canceló búsquedas redundantes y midió la primera respuesta comprobada. Pasaron 13 pruebas. Pendiente medición en sesión real. Informe: Indicaciones/INFORME_LATENCIA_CUESTIONARIO.md.
+
 ## 2026-11-25 · Biblioteca académica local
 OpenAI Codex Desktop preparó una biblioteca académica local para tres materias. Incorporó indexación incremental de PDF y diapositivas, búsqueda bilingüe por términos y citas comprobadas contra fragmentos locales antes de recurrir a la web. Verificó la recuperación en material real y cuatro pruebas automatizadas. Pendiente medición con voz y modelo durante una sesión real. Informe local: Indicaciones/INFORME_BIBLIOTECA_MATERIAS.md.
 
