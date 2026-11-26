@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Evidencia exacta en cuestionarios
+OpenAI Codex Desktop adelantó la búsqueda pública, exigió citas literales para respaldar las respuestas, incorporó extracción directa de cantidades y cálculo reproducible y reforzó OCR de cuadrículas. Validó un banco renderizado de quince preguntas con Windows OCR, Gemma y búsquedas reales. Documentó resultados y límites en Indicaciones/INFORME_EVIDENCIA_EXACTA_CUESTIONARIO.md.
+
 ## 2026-11-25 · Banco visual de regresión
 OpenAI Codex Desktop amplió el banco visual a diez escenarios y ejecutó órdenes de texto con OCR y Gemma. Corrigió opciones con letras bajas y selecciones múltiples serializadas. Pasaron 10 escenarios y 32 regresiones. Informe: Indicaciones/INFORME_BANCO_VISUAL.md.
 
