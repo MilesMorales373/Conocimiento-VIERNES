@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Apertura de aplicaciones y toma de turno
+2026-11-26 · OpenAI Codex Desktop unificó la preparación de ventanas para mostrar aplicaciones y recuperar la biblioteca de Cider. Verificó Cider real con la sección colapsada y Calculadora. Añadió pausa temprana para la llamada y conservó el turno siguiente. Pasaron 92 pruebas y seis casos de audio inyectado, con validación física de voz pendiente. Informe: Indicaciones/INFORME_APERTURA_Y_TOMA_DE_TURNO_2026_11_26.md.
+
 ## 2026-11-26 · Verificación de parada con continuidad
 2026-11-26 · OpenAI Codex Desktop verificó «para» y «cancela»: 70 pruebas de voz, cancelación y continuidad aprobadas; ambas órdenes detuvieron cuatro emisiones sintéticas con Whisper Turbo y Kokoro en los dos estados de modo juego. Se comprobó que el siguiente turno conserva la pregunta anterior y el avance interrumpido. Sin cambios de código; falta prueba acústica con micrófono y altavoces.
 
