@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-25 · Simulador de cuestionarios
+OpenAI Codex Desktop añadió OCR en español para tarjetas visuales sin número, cuadrículas y campos abiertos; incorporó un simulador local. OCR y Gemma resolvieron seis escenarios controlados y el trabajador leyó el simulador desde el monitor físico. Pasaron 32 regresiones. Pendiente prueba por voz y oclusiones complejas. Informe: Indicaciones/INFORME_SIMULADOR_CUESTIONARIOS.md.
+
 ## 2026-11-25 · Latencia de cuestionarios
 OpenAI Codex Desktop agrupó la verificación de material académico en una llamada a Gemma, solapó búsquedas web con evidencia local débil, canceló búsquedas redundantes y midió la primera respuesta comprobada. Pasaron 13 pruebas. Pendiente medición en sesión real. Informe: Indicaciones/INFORME_LATENCIA_CUESTIONARIO.md.
 
