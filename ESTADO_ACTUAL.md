@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Bloques visibles completos
+OpenAI Codex Desktop corrigió el acceso a todos los grupos visibles, admitió tarjetas numeradas con poca sangría y añadió el filtro de preguntas pendientes. Verificó cuatro grupos simultáneos con Windows OCR y Gemma, además de 39 pruebas. Informe: Indicaciones/INFORME_PREGUNTAS_VISIBLES_COMPLETAS.md.
+
 ## 2026-11-26 · Voz del cuestionario
 OpenAI Codex Desktop separó los avances visuales de los fragmentos de voz del cuestionario. La respuesta hablada lee las opciones finales en orden. Añadió variantes breves para continuar y mover la isla. Pasaron 38 pruebas y el servicio Kokoro completó la síntesis sin salida física. Informe: Indicaciones/INFORME_VOZ_RESPUESTAS_CUESTIONARIO.md.
 
