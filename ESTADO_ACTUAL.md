@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Conexión a Control en Teams
+2026-11-26 · OpenAI Codex Desktop corrigió la transición de ventanas y la preferencia por la cuenta institucional en Teams para Control. Conservó la comprobación de fecha, reunión activa y dispositivos antes de entrar. Pasaron 47 pruebas de clases; la orden real de preparación localizó una tarjeta de fecha anterior y no confirmó tarjeta para el día de la prueba. Queda pendiente la unión durante una reunión activa y la prueba por voz. Informe: Indicaciones/INFORME_CONTROL_TEAMS_2026_11_26.md.
+
 ## 2026-11-26 · Bloques visibles completos
 OpenAI Codex Desktop corrigió el acceso a todos los grupos visibles, admitió tarjetas numeradas con poca sangría y añadió el filtro de preguntas pendientes. Verificó cuatro grupos simultáneos con Windows OCR y Gemma, además de 39 pruebas. Informe: Indicaciones/INFORME_PREGUNTAS_VISIBLES_COMPLETAS.md.
 
