@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Playlists de Cider y aplicaciones
+2026-11-26 · OpenAI Codex Desktop corrigió la prioridad de las órdenes de playlists y su selección numerada por nombre o número. Verificó el listado real mediante accesibilidad de Cider cuando la API local agotó el plazo. Auditó las 189 entradas registradas y añadió selección para nombres duplicados. Pasaron 20 pruebas de playlists y dos comprobaciones dirigidas de aplicaciones. Pendiente validar la reproducción física al elegir. Informe: Indicaciones/INFORME_CIDER_PLAYLISTS_CATALOGO_2026_11_26.md.
+
 ## 2026-11-26 · Conexión a Control en Teams
 2026-11-26 · OpenAI Codex Desktop corrigió la transición de ventanas y la preferencia por la cuenta institucional en Teams para Control. Conservó la comprobación de fecha, reunión activa y dispositivos antes de entrar. Pasaron 47 pruebas de clases; la orden real de preparación localizó una tarjeta de fecha anterior y no confirmó tarjeta para el día de la prueba. Queda pendiente la unión durante una reunión activa y la prueba por voz. Informe: Indicaciones/INFORME_CONTROL_TEAMS_2026_11_26.md.
 
