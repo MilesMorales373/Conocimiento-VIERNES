@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-25 · Banco visual de regresión
+OpenAI Codex Desktop amplió el banco visual a diez escenarios y ejecutó órdenes de texto con OCR y Gemma. Corrigió opciones con letras bajas y selecciones múltiples serializadas. Pasaron 10 escenarios y 32 regresiones. Informe: Indicaciones/INFORME_BANCO_VISUAL.md.
+
 ## 2026-11-25 · Simulador de cuestionarios
 OpenAI Codex Desktop añadió OCR en español para tarjetas visuales sin número, cuadrículas y campos abiertos; incorporó un simulador local. OCR y Gemma resolvieron seis escenarios controlados y el trabajador leyó el simulador desde el monitor físico. Pasaron 32 regresiones. Pendiente prueba por voz y oclusiones complejas. Informe: Indicaciones/INFORME_SIMULADOR_CUESTIONARIOS.md.
 
