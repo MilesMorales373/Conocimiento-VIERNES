@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-26 · Verificación de parada con continuidad
+2026-11-26 · OpenAI Codex Desktop verificó «para» y «cancela»: 70 pruebas de voz, cancelación y continuidad aprobadas; ambas órdenes detuvieron cuatro emisiones sintéticas con Whisper Turbo y Kokoro en los dos estados de modo juego. Se comprobó que el siguiente turno conserva la pregunta anterior y el avance interrumpido. Sin cambios de código; falta prueba acústica con micrófono y altavoces.
+
 ## 2026-11-26 · Playlists de Cider y aplicaciones
 2026-11-26 · OpenAI Codex Desktop corrigió la prioridad de las órdenes de playlists y su selección numerada por nombre o número. Verificó el listado real mediante accesibilidad de Cider cuando la API local agotó el plazo. Auditó las 189 entradas registradas y añadió selección para nombres duplicados. Pasaron 20 pruebas de playlists y dos comprobaciones dirigidas de aplicaciones. Pendiente validar la reproducción física al elegir. Informe: Indicaciones/INFORME_CIDER_PLAYLISTS_CATALOGO_2026_11_26.md.
 
