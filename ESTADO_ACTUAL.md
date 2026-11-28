@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-27 · Modelos locales instalados
+2026-11-27 · OpenAI Codex Desktop instaló MiMo V2.6 9B Q4_K_M y GPT-OSS 20B. Ambos están confirmados en el catálogo local de Ollama. Gemma sigue como modelo activo. La comparación de rendimiento queda pendiente.
+
 ## 2026-11-26 · Apertura de aplicaciones y toma de turno
 2026-11-26 · OpenAI Codex Desktop unificó la preparación de ventanas para mostrar aplicaciones y recuperar la biblioteca de Cider. Verificó Cider real con la sección colapsada y Calculadora. Añadió pausa temprana para la llamada y conservó el turno siguiente. Pasaron 92 pruebas y seis casos de audio inyectado, con validación física de voz pendiente. Informe: Indicaciones/INFORME_APERTURA_Y_TOMA_DE_TURNO_2026_11_26.md.
 
