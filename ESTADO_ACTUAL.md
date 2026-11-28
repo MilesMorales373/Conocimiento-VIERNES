@@ -1,5 +1,8 @@
 # Estado al 2026-11-15
 
+## 2026-11-27 · Comparación local de modelos
+2026-11-27 · OpenAI Codex Desktop comparó Gemma 4 12B, MiMo 9B Q4 y GPT-OSS 20B en Ollama local. En 8K obtuvieron 19, 16 y 23 de 33 respectivamente; en 32K, 4, 2 y 4 de 6. GPT-OSS lideró coordinación y rechazó imágenes directas; Gemma mantuvo la mejor visión de la muestra. Se conservó la configuración y queda pendiente la decisión del usuario. Informe: Indicaciones/INFORME_COMPARACION_TRES_MODELOS_LOCALES.md.
+
 ## 2026-11-27 · Modelos locales instalados
 2026-11-27 · OpenAI Codex Desktop instaló MiMo V2.6 9B Q4_K_M y GPT-OSS 20B. Ambos están confirmados en el catálogo local de Ollama. Gemma sigue como modelo activo. La comparación de rendimiento queda pendiente.
 
